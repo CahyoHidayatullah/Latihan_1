@@ -103,3 +103,6 @@ vonix@CAHYO22 MINGW64 ~/lab_pemrograman/latihan1 (master)
 $
 ![Screenshot (6)](https://user-images.githubusercontent.com/115677959/195798020-7db13e56-f853-485d-9c6c-93016dee93aa.png)
 ![Screenshot (7)](https://user-images.githubusercontent.com/115677959/195798030-6358f161-da59-4665-af4f-f3689bd34167.png)
+untuk membuat folder di git menggunakan code mkdir "nama folder"
+untuk membuka folder yang telah dibuat menggunakan code cd "nama folder"/
+
