@@ -2,6 +2,7 @@
 ## Cara penginstalan GIT
 
   - Pertama anda harus mendownload Aplikasi  Git, buka website resminya Git  di **git-scm.com** .
+  
   ![Screenshot (17)](https://user-images.githubusercontent.com/115677959/195978004-f83ef297-525c-4675-8d1e-61391bcb8a78.png) *Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda agar support. Setelah selesai download klik instal*
 - Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
 
