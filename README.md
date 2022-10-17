@@ -94,6 +94,6 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 -  Selesai Jika ingin melihat hasilnya cek di  laman gethub arahkan ke repositorinya
   
 #### **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas**.
-#Terimakasih#
+### **Terimakasih**
 
  
