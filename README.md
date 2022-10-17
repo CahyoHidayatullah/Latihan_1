@@ -34,9 +34,9 @@
 
   ![Screenshot (18)](https://user-images.githubusercontent.com/115677959/195978391-435ade62-7139-47d7-b50b-073c6c000bdb.png)
 
-### _Membuat Reposiory Local_
+### _Membuat Repository Local_
 
-- Lalu kita buka file explorer pilih dilocal disk e (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih **Git Bash here** .
+- Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih **Git Bash here** .
 ![Screenshot (20)](https://user-images.githubusercontent.com/115677959/195978607-35aa8e50-d7fd-4451-b5a6-754d887eb31f.png)
 
 
@@ -93,5 +93,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
 -  Selesai Jika ingin melihat hasilnya cek di  laman gethub arahkan ke repositorinya
   
-#### **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas**. 
+#### **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas**.
+#Terimakasih#
+
  
