@@ -41,7 +41,7 @@
 
 
 - Lalu kita akan menambahkan Config Global Repository  pakai user name dan user email yang tadi sudah dibuat, dengan perintah : 	
-      **$ git config --global user.email “nama_user”**
+      **$ git config --global user.email “email_user”**
       **$ git config --global user.name “nama_user”**
 
   ![Screenshot (21)](https://user-images.githubusercontent.com/115677959/195978719-d22ef8c7-0654-47b5-bc06-0ef830e067d6.png)
